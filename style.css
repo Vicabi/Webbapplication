@@ -1,0 +1,67 @@
+.confirmation #info {
+    text-align: center;
+}
+
+.confirmation #info-card {
+    background-color: rgb(224, 255, 224);
+}
+
+.confirmation #header {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.confirmation #beginning {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.confirmation #status {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.confirmation #summary {
+    text-align: center;
+}
+
+.confirmation hr {
+    border-width: 3px;
+    color: darkblue
+}
+
+.confirmation #product-image {
+    margin-left: 50px;
+    float: left;
+}
+
+.confirmation #product-table {
+    float: left;
+    margin-left: 50px;
+}
+
+.confirmation #shipping {
+    margin-top: 300px;
+    text-align: center;
+}
+
+.confirmation #shipping-card {
+    width: 500px;
+
+}
+
+.confirmation #card-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.confirmation #demo-image {
+    width: 200px;
+}
+
+.confirmation #footer {
+    margin-top: 50px;
+}
